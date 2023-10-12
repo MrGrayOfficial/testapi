@@ -1,0 +1,44 @@
+[
+    {
+        "name": "samsung",
+        "price": 154,
+        "featured": true,
+        "rating": 4.9,
+        "company": "apple"
+    },
+    {
+        "name": "iphone11",
+        "price": 1540,
+        "featured": false,
+        "rating": 4.9,
+        "company": "mi"
+    },
+    {
+        "name": "iphone11",
+        "price": 110,
+        "featured": false,
+        "rating": 4.9,
+        "company": "apple"
+    },
+    {
+        "name": "iphone12",
+        "price": 1560,
+        "featured": true,
+        "rating": 4.9,
+        "company": "apple"
+    },
+    {
+        "name": "iphone13",
+        "price": 1570,
+        "featured": true,
+        "rating": 4.9,
+        "company": "apple"
+    },
+    {
+        "name": "iphone14",
+        "price": 1580,
+        "featured": true,
+        "rating": 4.9,
+        "company": "apple"
+    }
+]
